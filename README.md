@@ -67,8 +67,7 @@
 </p>
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <iframe src="https://giphy.com/embed/ADD4w6XgqLBJohQdBK" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+            <img src="https://giphy.com/embed/ADD4w6XgqLBJohQdBK/giphy.gif" style="position:absolute;top:0;left:0;width:80%;height:100%;" alt="GIF" />
 </div>
-<p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-ADD4w6XgqLBJohQdBK">via GIPHY</a></p>
 
 <h3 align="left">👇 Show my publics proyects :</h3>
