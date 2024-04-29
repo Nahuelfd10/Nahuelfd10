@@ -6,6 +6,10 @@
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="40%" height="25%"/>
 </div>
+ <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+ <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  width="40%" height="25%"/>
+</div>
+
 </div>
 <h3 align="left">Languages and Tools:</h3>
 
