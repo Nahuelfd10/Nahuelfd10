@@ -7,7 +7,7 @@
     </div>
     <div style="flex: 1;">
         <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-            <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" alt="GIF" />
+            <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="position:absolute;top:0;left:0;width:30%;height:100%;" alt="GIF" />
         </div>
     </div>
 </div>
@@ -18,6 +18,7 @@
 </div>
 
 </div>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Languages:</h4>
