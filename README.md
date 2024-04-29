@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<div>
-<p align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <p align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
+    </div>
+    <div style="flex: 1;">
+        <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+            <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" alt="GIF" />
+        </div>
+    </div>
+</div>
+
+
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="40%" height="25%"/>
-</div>
- <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
- <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  width="40%" height="25%"/>
 </div>
 
 </div>
