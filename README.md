@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
         <p align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
     </div>
