@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelfd10" alt="nahuelfd10" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelfd10&" alt="nahuelfd10" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelfd10&theme=darkhub" alt="nahuelfd10" /></a> </p>
 
 - 📱 I’m currently working on [MoboHubb App](https://mobohubb.com/)
 
@@ -13,7 +13,7 @@
 
 - ⚡ My hobbies **⚽️ 🎾 🏋️‍♂️ (Soccer, padel, training)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelfd10&" alt="nahuelfd10" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelfd10&show_icons=true&locale=en&layout=compact" alt="nahuelfd10" /></p>
 <h3 align="left">Languages and Tools:</h3>
