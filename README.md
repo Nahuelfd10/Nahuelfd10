@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelfd10&" alt="nahuelfd10" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelfd10&" alt="nahuelfd10" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelfd10" alt="nahuelfd10" /></a> </p>
 
-<h3 align="left">More about me:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelfd10&show_icons=true&locale=en&layout=compact" alt="nahuelfd10" /></p>
-
 <h3 align="left">Languages and Tools:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelfd10&show_icons=true&locale=en&layout=compact" alt="nahuelfd10" /></p>
+</br>
 
 <h4 align="left">Mobile App Development:</h3>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
