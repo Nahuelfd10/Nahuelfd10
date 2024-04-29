@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelfd10&" alt="nahuelfd10" /></p>
 
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelfd10" alt="nahuelfd10" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
