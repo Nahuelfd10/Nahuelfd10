@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" height="100%"/>
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="50%" height="50%"/>
 
 </div>
 
