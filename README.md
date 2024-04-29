@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
- <image src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="100%" height="100%"/>
+ <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="100%" height="100%"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
