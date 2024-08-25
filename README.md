@@ -1,73 +1,87 @@
-<h1 align="center">Hi 👋, I'm Nahuel</h1>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;" align="center">
-            <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="position:absolute;top:0;left:0;width:80%;height:100%;" alt="GIF" />
-        </div>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+  <header className="text-center py-10 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
+        <h1 className="text-4xl font-bold mb-2">Hi there, I'm Nahuel! 👋</h1>
+        <h3 className="text-xl">A passionate frontend developer from Argentina 🇦🇷</h3>
+        <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" className="mx-auto mt-4 rounded-lg shadow-lg" style={{width: '300px'}} />
+      </header>
 
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
-        <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
-</div>
+   <main className="container mx-auto px-4 py-8">
+        <section className="mb-10">
+          <h2 className="text-2xl font-bold mb-4">📊 GitHub Stats</h2>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" className="mx-auto" />
+        </section>
 
-</div>
+   <section className="mb-10">
+          <h2 className="text-2xl font-bold mb-4">🛠️ Languages and Tools</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <Card className="p-4">
+              <h3 className="font-semibold mb-2">Languages</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge variant="secondary">JavaScript</Badge>
+                <Badge variant="secondary">TypeScript</Badge>
+              </div>
+            </Card>
+            <Card className="p-4">
+              <h3 className="font-semibold mb-2">Mobile Development</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge variant="secondary">React Native</Badge>
+                <Badge variant="secondary">Android</Badge>
+              </div>
+            </Card>
+            <Card className="p-4">
+              <h3 className="font-semibold mb-2">Frontend</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge variant="secondary">React</Badge>
+                <Badge variant="secondary">Angular</Badge>
+                <Badge variant="secondary">Redux</Badge>
+                <Badge variant="secondary">HTML5</Badge>
+                <Badge variant="secondary">CSS3</Badge>
+                <Badge variant="secondary">Bootstrap</Badge>
+                <Badge variant="secondary">Sass</Badge>
+                <Badge variant="secondary">Tailwind</Badge>
+              </div>
+            </Card>
+            <Card className="p-4">
+              <h3 className="font-semibold mb-2">Backend & Database</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge variant="secondary">Node.js</Badge>
+                <Badge variant="secondary">MongoDB</Badge>
+                <Badge variant="secondary">MySQL</Badge>
+                <Badge variant="secondary">PostgreSQL</Badge>
+                <Badge variant="secondary">Firebase</Badge>
+                <Badge variant="secondary">AWS</Badge>
+                <Badge variant="secondary">Azure</Badge>
+              </div>
+            </Card>
+          </div>
+        </section>
 
-<h3 align="left">Languages and Tools:</h3>
+   <section className="mb-10">
+          <h2 className="text-2xl font-bold mb-4">🌟 More About Me</h2>
+          <ul className="list-disc list-inside space-y-2">
+            <li>📱 Currently working on <a href="https://mobohubb.com/" className="text-blue-500 hover:underline">MoboHubb App</a></li>
+            <li>👨‍💻 Check out my projects at <a href="https://nahuelfdev.com/" className="text-blue-500 hover:underline">nahuelfdev.com</a></li>
+            <li>📫 Reach me at <a href="mailto:nahuelfdev@gmail.com" className="text-blue-500 hover:underline">nahuelfdev@gmail.com</a></li>
+            <li>📄 View my <a href="https://drive.google.com/file/d/15kCP87mRbtWGPNNcII_qVdtM56jlTEDe/view?usp=sharing" className="text-blue-500 hover:underline">resume</a></li>
+            <li>⚡ Hobbies: ⚽️ Soccer, 🎾 Padel, 🏋️‍♂️ Training</li>
+          </ul>
+  </section>
 
-<h4 align="left">Languages:</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- 
-<h4 align="left">Mobile App Development:</h4>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+        <section className="mb-10">
+          <h2 className="text-2xl font-bold mb-4">🤝 Connect with me</h2>
+          <div className="flex space-x-4">
+            <a href="https://linkedin.com/in/nahuelfd10" target="_blank" rel="noopener noreferrer">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" className="w-8 h-8" />
+            </a>
+            <a href="https://instagram.com/nahuelfz10" target="_blank" rel="noopener noreferrer">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" className="w-8 h-8" />
+            </a>
+          </div>
+        </section>
 
-<h4 align="left">Frontend Development:</h4>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
- 
-<h4 align="left">Backend & Database:</h3>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
- 
-<h4 align="left">Testing & Desing:</h3>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+        <section>
+          <h2 className="text-2xl font-bold mb-4">👇 Check out my public projects</h2>
+          <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="Projects GIF" className="mx-auto rounded-lg shadow-lg" style={{width: '300px'}} />
+        </section>
+      </main>
 
-<h3 align="left">More about me:</h3>
-- 📱 I’m currently working on [MoboHubb App] (https://mobohubb.com/)
-
-- 👨‍💻 All of my projects are available at [https://nahuelfdev.com/](https://nahuelfdev.com/)
-
-- 📫 How to reach me **nahuelfdev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15kCP87mRbtWGPNNcII_qVdtM56jlTEDe/view?usp=sharing](https://drive.google.com/file/d/15kCP87mRbtWGPNNcII_qVdtM56jlTEDe/view?usp=sharing)
-
-- ⚡ My hobbies **⚽️ 🎾 🏋️‍♂️ (Soccer, padel, training)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nahuelfd10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuelfd10" height="30" width="40" /></a>
-<a href="https://instagram.com/nahuelfz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahuelfz10" height="30" width="40" /></a>
-</p>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-             <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" style="position:absolute;top:0;left:0;width:80%;height:100%;" alt="GIF" />
-</div>
-
-<h3 align="left">👇 Show my publics proyects :</h3>
+  
