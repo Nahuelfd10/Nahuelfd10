@@ -1,4 +1,10 @@
-  <header className="text-center py-10 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
+import { Card } from "@/components/ui/card"
+import { Badge } from "@/components/ui/badge"
+
+export default function Component() {
+  return (
+    <div className="font-sans text-gray-900 dark:text-gray-100 bg-white dark:bg-gray-900">
+      <header className="text-center py-10 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
         <h1 className="text-4xl font-bold mb-2">Hi there, I'm Nahuel! 👋</h1>
         <h3 className="text-xl">A passionate frontend developer from Argentina 🇦🇷</h3>
         <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" className="mx-auto mt-4 rounded-lg shadow-lg" style={{width: '300px'}} />
@@ -10,7 +16,7 @@
           <img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" className="mx-auto" />
         </section>
 
-   <section className="mb-10">
+  <section className="mb-10">
           <h2 className="text-2xl font-bold mb-4">🛠️ Languages and Tools</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <Card className="p-4">
@@ -55,7 +61,7 @@
           </div>
         </section>
 
-   <section className="mb-10">
+  <section className="mb-10">
           <h2 className="text-2xl font-bold mb-4">🌟 More About Me</h2>
           <ul className="list-disc list-inside space-y-2">
             <li>📱 Currently working on <a href="https://mobohubb.com/" className="text-blue-500 hover:underline">MoboHubb App</a></li>
@@ -64,9 +70,9 @@
             <li>📄 View my <a href="https://drive.google.com/file/d/15kCP87mRbtWGPNNcII_qVdtM56jlTEDe/view?usp=sharing" className="text-blue-500 hover:underline">resume</a></li>
             <li>⚡ Hobbies: ⚽️ Soccer, 🎾 Padel, 🏋️‍♂️ Training</li>
           </ul>
-  </section>
+        </section>
 
-        <section className="mb-10">
+   <section className="mb-10">
           <h2 className="text-2xl font-bold mb-4">🤝 Connect with me</h2>
           <div className="flex space-x-4">
             <a href="https://linkedin.com/in/nahuelfd10" target="_blank" rel="noopener noreferrer">
@@ -77,11 +83,11 @@
             </a>
           </div>
         </section>
-
-        <section>
+    <section>
           <h2 className="text-2xl font-bold mb-4">👇 Check out my public projects</h2>
           <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="Projects GIF" className="mx-auto rounded-lg shadow-lg" style={{width: '300px'}} />
         </section>
       </main>
-
-  
+    </div>
+  )
+}
